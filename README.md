@@ -2,7 +2,7 @@
 
 **An intelligent vocabulary extraction tool for German learners.**
 
-![App Screenshot](https://via.placeholder.com/800x400?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/cernyfi/German-Vocab-Builder/blob/main/image.png)
 *(Add a screenshot of your app here)*
 
 The **German Vocab Builder** uses advanced AI to analyze German text files (books, subtitles, articles) and extract useful vocabulary based on your specific learning level. Unlike simple translators, it understands grammar rules—extracting singular nouns, infinitive verbs, and complete idiomatic phrases automatically.
