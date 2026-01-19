@@ -3,11 +3,10 @@
 **An intelligent vocabulary extraction tool for German learners.**
 
 ![App Screenshot](https://github.com/cernyfi/German-Vocab-Builder/blob/main/image.png)
-*(Add a screenshot of your app here)*
 
 The **German Vocab Builder** uses advanced AI to analyze German text files (books, subtitles, articles) and extract useful vocabulary based on your specific learning level. Unlike simple translators, it understands grammar rules—extracting singular nouns, infinitive verbs, and complete idiomatic phrases automatically.
 
-> **Latest Version:** v3.5
+> **Latest Version:** v1.3
 > **Platform:** Windows 10/11
 
 ## 🚀 Key Features
@@ -15,16 +14,12 @@ The **German Vocab Builder** uses advanced AI to analyze German text files (book
 * **Smart AI Extraction:** Filters out basic words (A1/A2) and focuses on what you actually need to learn (B2/C1, Business, or Slang).
 * **Grammar Aware:** Automatically converts conjugated verbs to **Infinitives** (e.g., *ging* -> *gehen*) and nouns to **Singular/Nominative** (e.g., *Häuser* -> *das Haus*).
 * **Contextual Translation:** Uses translation logic to provide accurate translations in your native language (English, Spanish, French, etc.).
-* **Wiktionary Integration:** Fetches real grammatical gender (der/die/das) and verb forms using live data.
-* **Multi-Model Support:** Works with **OpenAI (GPT-4o)**, **Google Gemini**, **Claude**, or **Local LLMs** (via LM Studio).
+* **Wiktionary Integration:** Fetches real grammatical gender (der/die/das) and verb forms using dictionary data.
+* **Multi-Model Support:**
 
 ## 📥 Download
 
-You can download the latest standalone version for Windows from the **Releases** page. No Python installation is required.
-
-1.  Go to the **[Releases Page](https://github.com/cernyfi/German-Vocab-Builder/releases)**.
-2.  Download the `GermanVocabBuilder.exe`.
-3.  Double-click to run.
+You can download the latest standalone version for Windows from the **[Releases Page](https://github.com/cernyfi/German-Vocab-Builder/releases)**.
 
 ## 🛠️ How to Use
 
@@ -43,15 +38,7 @@ You can download the latest standalone version for Windows from the **Releases**
     * *Optional:* You can edit the system prompt manually for custom needs.
 
 4.  **Start:**
-    * Click **START**. The app will process your files in chunks of ~600 words.
     * You can **PAUSE** and **RESUME** at any time.
-
-## ⚙️ Supported AI Models
-
-* **Google Gemini:** (Recommended for speed & cost)
-* **OpenAI:** GPT-4o / GPT-3.5
-* **Anthropic Claude:** Via OpenRouter
-* **Local LLMs:** Any model running on LM Studio (e.g., Llama 3, Mistral)
 
 ## 📄 License & Attribution
 
