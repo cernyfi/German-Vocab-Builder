@@ -22,7 +22,7 @@ The **German Vocab Builder** uses advanced AI to analyze German text files (book
 
 You can download the latest standalone version for Windows from the **Releases** page. No Python installation is required.
 
-1.  Go to the **[Releases Page](../../releases)**.
+1.  Go to the **[Releases Page](https://github.com/cernyfi/German-Vocab-Builder/releases)**.
 2.  Download the `GermanVocabBuilder.exe`.
 3.  Double-click to run.
 
